@@ -1,2 +1,2 @@
 # Jobcator
-Find which areas are best for your industry of interest.
+App to find jobs in Bristol and around.
