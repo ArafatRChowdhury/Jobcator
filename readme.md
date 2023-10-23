@@ -2,7 +2,7 @@ Jobcator
 
 App to find jobs in Bristol and around.
 
-1. [Planning](docs/planning.md)
+1. [Planning](docs/Information Systems Development Planning - Jaime.md)
 2. [Requirements](docs/requirements.md)
 3. [Design](docs/design.md)
 4. [Implementation](docs/implementation.md)
