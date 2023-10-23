@@ -1,6 +1,6 @@
-# TODO: PROJECT NAME HERE
+Jobcator
 
-TODO: Brief outline of your project describing the dataset and a link to it.
+App to find jobs in Bristol and around.
 
 1. [Planning](docs/planning.md)
 2. [Requirements](docs/requirements.md)
