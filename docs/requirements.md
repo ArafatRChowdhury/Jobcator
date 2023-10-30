@@ -13,7 +13,7 @@ TODO: List and describe the actors/users for this product.
 TODO: Describe each use case (at least one per team member).
     Give each use case a unique ID, e.g. UC1, UC2, ...
     Summarise these using the use-case template below.
-#### 1. As someobe in need of a job, I want to find jobs by wrd and industry, so I know where to look for a job in my industry of interest
+#### 1. As someone in need of a job, I want to find jobs by wrd and industry, so I know where to look for a job in my industry of interest
 
 | UC1 | UC1: Find jobs by ward and industry | 
 | -------------------------------------- | ------------------- |
