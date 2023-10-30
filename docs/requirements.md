@@ -17,7 +17,7 @@ TODO: Describe each use case (at least one per team member).
 | UC1 | UC1: Find jobs by ward and industry | 
 | -------------------------------------- | ------------------- |
 | **Description** | As someone in need of a job, I want to see what industry jobs are available in each ward |
-| **Actors** | TODO: List of actors involved in use case |
+| **Actors** | Person that is in search of a job |
 | **Assumptions** | TODO: Pre/post-conditions if any</td></tr>
 | **Steps** | TODO: Interactions between actors and system necessary to achieve goal |
 | **Variations** | TODO: OPTIONAL - Any variations in the steps of a use case |
