@@ -1,6 +1,6 @@
-Jobcator
+# Jobcator
 
-App to find jobs in Bristol and around.
+This is an app designed to find jobs in Bristol and around. It will make finding a job in Bristol areas much easier, and can help narrow down a search.
 
 1. [Planning](docs/planning.md)
 2. [Requirements](docs/requirements.md)
