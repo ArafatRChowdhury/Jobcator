@@ -29,4 +29,4 @@
 ## Project Scope
 TODO: Scope of the System of Interest. Include a bullet list of things from your context diagram that are in scope.
 
-![Insert your Context Diagram Here](docs/context_diagram.jpg)
+![Insert your Context Diagram Here](images/context_diagram.png)
