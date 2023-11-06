@@ -9,7 +9,7 @@ TODO: Replace the example text like this with text that describes your project. 
 ### Business benefits
 TODO: List high-level benefits that this product will provide.:
 
-Jobcator can help with
+Jobcator can help its users with looking
 
 #### 1. Find a job in your area/postcode and other areas/postcodes
 #### 2. Find jobs in different industrial sectors like agriculture, finance or retail. For example, in Southmead, there are 150 jobs in retail.
