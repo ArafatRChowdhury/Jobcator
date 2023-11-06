@@ -19,13 +19,13 @@ TODO: Describe each use case (at least one per team member).
     Give each use case a unique ID, e.g. UC1, UC2, ...
     Summarise these using the use-case template below.
 
-| UC1 | Find jobs by ward and industry | 
+| UC1 | Find jobs by users area | 
 | -------------------------------------- | ------------------- |
 | **Description** | As someone in need of a job, I want to see what industry jobs are available in my area |
 | **Actors** | Person that is in search of a job |
 | **Assumptions** | Browser supports geolocation</td></tr>
 | **Steps** | 1. Request permission to access user location.<br>2. On request, give permission for user location.<br>3. View table for the user's area.|
-| **Variations** | TODO: OPTIONAL - Any variations in the steps of a use case |
+| **Variations** | 2. Browser does not support geolocation |
 | **Non-functional** | TODO: OPTIONAL - List of non-functional requirements that the use case must meet. |
 | **Issues** | TODO: OPTIONAL - List of issues that remain to be resolved |
 
