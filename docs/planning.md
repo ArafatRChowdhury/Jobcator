@@ -6,7 +6,6 @@
 #### Some people have trouble finding employment because of poor advertisement, especially in first sector jobs like agriculture or mining, with this app you are able to locate jobs by postcode or address and in different industry sectors like finance, manufacturing, retail, construction or business
 
 ### Business benefits
-TODO: List high-level benefits that this product will provide.:
 
 ##### <ins>Jobcator can help its users with :</ins>
 
@@ -14,13 +13,14 @@ TODO: List high-level benefits that this product will provide.:
 #### 2. Finding jobs in different industrial sectors like agriculture, finance or retail. For example, in Southmead, there are 150 jobs in retail.
 
 ### Options Considered
-TODO: What are some other customer options or leading products that address the same needs?: 
+ 
+##### <ins>Apps/websites that already exist to find employment:</ins>
 #### 1. Indeed
 #### 2. Civil Service Jobs/government
 #### 3. Job search centers in Bristol
 
 ### Expected Risks
-TODO: What are the main risks of this project?:
+##### <ins> Main risks of the project </ins>
 #### 1. Timescales
 #### 2. Originality of the product(Try not to copy other products already in the market)
 #### 3. No license provided, need permission to use it 
