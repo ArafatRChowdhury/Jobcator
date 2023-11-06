@@ -8,10 +8,10 @@
 ### Business benefits
 TODO: List high-level benefits that this product will provide.:
 
-Jobcator can help its users with looking
+##### <ins>Jobcator can help its users with :</ins>
 
-#### 1. Find a job in your area/postcode and other areas/postcodes
-#### 2. Find jobs in different industrial sectors like agriculture, finance or retail. For example, in Southmead, there are 150 jobs in retail.
+#### 1. Finding a job in their area/postcode and other areas/postcodes
+#### 2. Finding jobs in different industrial sectors like agriculture, finance or retail. For example, in Southmead, there are 150 jobs in retail.
 
 ### Options Considered
 TODO: What are some other customer options or leading products that address the same needs?: 
