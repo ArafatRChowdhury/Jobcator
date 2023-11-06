@@ -3,7 +3,6 @@
 ## Business Case
 
 ### Problem statement
-TODO: Replace the example text like this with text that describes your project. What is the problem to be addressed?: 
 #### Some people have trouble finding employment because of poor advertisement, especially in first sector jobs like agriculture or mining, with this app you are able to locate jobs by postcode or address and in different industry sectors like finance, manufacturing, retail, construction or business
 
 ### Business benefits
