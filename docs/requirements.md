@@ -72,6 +72,9 @@ Give each non-functional requirement a unique ID. e.g. NFR1, NFR2, ...
 
 Indicate which UC the requirement comes from.
 NFR1: The system shall assume a sensible default for the user geolocation if there is none available, derived from UC1 and UC3 (Reliability)
+
 NFR2: No security is required as all data is public (Security)
+
 NFR3: Works on chrome and safari, maybe firefox (Compatability)
+
 NFR4: Table/data is fetched and displayed in a time reasonable to the performance capabilities of the device being used (Performance efficiency)
