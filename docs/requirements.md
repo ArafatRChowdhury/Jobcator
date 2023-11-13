@@ -13,6 +13,7 @@ TODO: Write brief user stories to explain how various actors would interact with
 TODO: List and describe the actors/users for this product.
 #### 1. Job seekers
 #### 2. Company managers
+#### 3. Employers
 
 ### Use Cases
 TODO: Describe each use case (at least one per team member).
@@ -29,12 +30,22 @@ TODO: Describe each use case (at least one per team member).
 | **Non-functional** | TODO: OPTIONAL - List of non-functional requirements that the use case must meet. |
 | **Issues** | TODO: OPTIONAL - List of issues that remain to be resolved |
 
-| UC2 | Find jobs by a selected area | 
+| UC2 | Publish job adverts | 
 | -------------------------------------- | ------------------- |
 | **Description** | Job seekers will need someone to give them employment opportunities so employers will be able to upload job adverts |
 | **Actors** | Employer looking for employees|
 | **Assumptions** | None</td></tr>
 | **Steps** | 1. Log-in to the app as an employer<br>2. Make a job advert specifying what the job is about, salary, benefits, location and job type<br>3. Publish the job advert|
+| **Variations** | n/a |
+| **Non-functional** | TODO: OPTIONAL - List of non-functional requirements that the use case must meet. |
+| **Issues** | TODO: OPTIONAL - List of issues that remain to be resolved |
+
+| UC1 | Find jobs by selected area | 
+| -------------------------------------- | ------------------- |
+| **Description** | As someone in need of a job, I want to see what industry jobs are available in a selected area |
+| **Actors** | Person that is in search of a job |
+| **Assumptions** | Browser supports geolocation</td></tr>
+| **Steps** | 1. Opt to choose which area's table to view<br>2. View table of selected area|
 | **Variations** | n/a |
 | **Non-functional** | TODO: OPTIONAL - List of non-functional requirements that the use case must meet. |
 | **Issues** | TODO: OPTIONAL - List of issues that remain to be resolved |
