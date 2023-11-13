@@ -29,6 +29,17 @@ TODO: Describe each use case (at least one per team member).
 | **Non-functional** | TODO: OPTIONAL - List of non-functional requirements that the use case must meet. |
 | **Issues** | TODO: OPTIONAL - List of issues that remain to be resolved |
 
+| UC2 | Find jobs by a selected area | 
+| -------------------------------------- | ------------------- |
+| **Description** | As someone in need of a job, I want to see what industry jobs are available in specific areas |
+| **Actors** | Person that is in search of a job |
+| **Assumptions** | None</td></tr>
+| **Steps** | 1. Opt to choose which area's table/data to view<br>2. View table/data of selected area|
+| **Variations** | 2. Browser does not support geolocation |
+| **Non-functional** | TODO: OPTIONAL - List of non-functional requirements that the use case must meet. |
+| **Issues** | TODO: OPTIONAL - List of issues that remain to be resolved |
+
+
 
 TODO: Your Use-Case diagram should include all use-cases.
 
@@ -40,6 +51,7 @@ TODO: create a list of functional requirements.
     e.g. "The system shall ..."
     Give each functional requirement a unique ID. e.g. FR1, FR2, ...
     Indicate which UC the requirement comes from.
+FR1: The system shall display the data for the area the user is in/selects (UC1 and UC2)
 
 
 ### Non-Functional Requirements
