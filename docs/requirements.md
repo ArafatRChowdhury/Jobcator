@@ -51,6 +51,7 @@ TODO: create a list of functional requirements.
     e.g. "The system shall ..."
     Give each functional requirement a unique ID. e.g. FR1, FR2, ...
     Indicate which UC the requirement comes from.
+
 FR1: The system shall display the data for the area the user is in/selects (UC1 and UC2)
 
 
