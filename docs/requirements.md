@@ -71,6 +71,7 @@ TODO: Consider one or more [quality attributes](https://en.wikipedia.org/wiki/IS
 Give each non-functional requirement a unique ID. e.g. NFR1, NFR2, ...
 
 Indicate which UC the requirement comes from.
+
 NFR1: The system shall assume a sensible default for the user geolocation if there is none available, derived from UC1 and UC3 (Reliability)
 
 NFR2: No security is required as all data is public (Security)
