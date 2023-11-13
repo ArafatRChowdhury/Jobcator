@@ -6,19 +6,14 @@
 TODO: Write brief user stories to explain how various actors would interact with the system to accomplish a goal.
     Express these in the form from agile development:- As a (role) I want (goal) so that (benefit).
 #### 1. As a job seeker, I want to find jobs by ward and industry, so I know where to look for a job in my industry of interest.
-#### 2. As a manager of a company, I want to be able to find employees who might want to work for my company.
+#### 2. As an employer, I want to be able to attract employees to my company/business
 
 
 ### Actors
-TODO: List and describe the actors/users for this product.
 #### 1. Job seekers
-#### 2. Company managers
-#### 3. Employers
+#### 2. Employers
 
 ### Use Cases
-TODO: Describe each use case (at least one per team member).
-    Give each use case a unique ID, e.g. UC1, UC2, ...
-    Summarise these using the use-case template below.
 
 | UC1 | Find jobs by users area | 
 | -------------------------------------- | ------------------- |
@@ -64,6 +59,8 @@ TODO: create a list of functional requirements.
     Indicate which UC the requirement comes from.
 
 FR1: The system shall display the data for the area the user is in/selects (UC1 and UC2)
+
+FR2: The system shall allow employers to post job adverts, including the location of the job
 
 
 ### Non-Functional Requirements
