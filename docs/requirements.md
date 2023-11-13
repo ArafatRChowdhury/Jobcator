@@ -31,11 +31,11 @@ TODO: Describe each use case (at least one per team member).
 
 | UC2 | Find jobs by a selected area | 
 | -------------------------------------- | ------------------- |
-| **Description** | As someone in need of a job, I want to see what industry jobs are available in specific areas |
-| **Actors** | Person that is in search of a job |
+| **Description** | Job seekers will need someone to give them employment opportunities so employers will be able to upload job adverts |
+| **Actors** | Employer looking for employees|
 | **Assumptions** | None</td></tr>
-| **Steps** | 1. Opt to choose which area's table/data to view<br>2. View table/data of selected area|
-| **Variations** | 2. Browser does not support geolocation |
+| **Steps** | 1. Log-in to the app as an employer<br>2. Make a job advert specifying what the job is about, salary, benefits, location and job type<br>3. Publish the job advert|
+| **Variations** | n/a |
 | **Non-functional** | TODO: OPTIONAL - List of non-functional requirements that the use case must meet. |
 | **Issues** | TODO: OPTIONAL - List of issues that remain to be resolved |
 
