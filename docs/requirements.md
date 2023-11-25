@@ -38,7 +38,7 @@
 | **Description** | Job seekers should be able to view  |
 | **Actors** | Job seekers and employers|
 | **Assumptions** | None</td></tr>
-| **Steps** | 1. Log-in to the app as either an employer or job seeker<br>2. a. As an employer, choose to view job adverts that they have posted<br>    b. As a job seeker, view job adverts posted by employers|
+| **Steps** | 1. Log-in to the app as either an employer or job seeker<br>2a. As an employer, choose to view job adverts that they have posted<br>2b. As a job seeker, view job adverts posted by employers|
 | **Variations** | n/a |
 | **Non-functional** | NFR4: Job adverts are displayed on a table in a reasonable time |
 | **Issues** | TODO: OPTIONAL - List of issues that remain to be resolved |
