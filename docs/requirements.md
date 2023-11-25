@@ -3,8 +3,6 @@
 ## User Needs
 
 ### User stories
-TODO: Write brief user stories to explain how various actors would interact with the system to accomplish a goal.
-    Express these in the form from agile development:- As a (role) I want (goal) so that (benefit).
 #### 1. As a job seeker, I want to find jobs by ward and industry, so I know where to look for a job in my industry of interest.
 #### 2. As an employer, I want to be able to attract employees to my company/business
 
@@ -31,16 +29,6 @@ TODO: Write brief user stories to explain how various actors would interact with
 | **Actors** | Employer looking for employees|
 | **Assumptions** | None</td></tr>
 | **Steps** | 1. Log-in to the app as an employer<br>2. Make a job advert specifying what the job is about, salary, benefits, location and job type<br>3. Publish the job advert|
-| **Variations** | n/a |
-| **Non-functional** | TODO: OPTIONAL - List of non-functional requirements that the use case must meet. |
-| **Issues** | TODO: OPTIONAL - List of issues that remain to be resolved |
-
-| UC3 | Find jobs by selected area | 
-| -------------------------------------- | ------------------- |
-| **Description** | As someone in need of a job, I want to see what industry jobs are available in a selected area |
-| **Actors** | Person that is in search of a job |
-| **Assumptions** | Browser supports geolocation</td></tr>
-| **Steps** | 1. Opt to choose which area's table to view<br>2. View table of selected area|
 | **Variations** | n/a |
 | **Non-functional** | TODO: OPTIONAL - List of non-functional requirements that the use case must meet. |
 | **Issues** | TODO: OPTIONAL - List of issues that remain to be resolved |
