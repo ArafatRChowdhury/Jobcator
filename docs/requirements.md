@@ -20,7 +20,7 @@
 | **Assumptions** | Browser supports geolocation</td></tr>
 | **Steps** | 1. Request permission to access user location.<br>2. On request, give permission for user location.<br>3. View table for the user's area.|
 | **Variations** | 2. Browser does not support geolocation |
-| **Non-functional** | TODO: OPTIONAL - List of non-functional requirements that the use case must meet. |
+| **Non-functional** | NFR4: Data is fetched in a reasonable time. |
 | **Issues** | TODO: OPTIONAL - List of issues that remain to be resolved |
 
 | UC2 | Publish job adverts | 
@@ -32,6 +32,17 @@
 | **Variations** | n/a |
 | **Non-functional** | TODO: OPTIONAL - List of non-functional requirements that the use case must meet. |
 | **Issues** | TODO: OPTIONAL - List of issues that remain to be resolved |
+
+| UC3 | View job adverts | 
+| -------------------------------------- | ------------------- |
+| **Description** | Job seekers should be able to view  |
+| **Actors** | Job seekers and employers|
+| **Assumptions** | None</td></tr>
+| **Steps** | 1. Log-in to the app as either an employer or job seeker<br>2. a. As an employer, choose to view job adverts that they have posted<br>    b. As a job seeker, view job adverts posted by employers|
+| **Variations** | n/a |
+| **Non-functional** | NFR4: Job adverts are displayed on a table in a reasonable time |
+| **Issues** | TODO: OPTIONAL - List of issues that remain to be resolved |
+
 
 
 
