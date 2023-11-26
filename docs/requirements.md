@@ -35,7 +35,7 @@
 
 | UC3 | View job adverts | 
 | -------------------------------------- | ------------------- |
-| **Description** | Job seekers should be able to view  |
+| **Description** | Job seekers and employers should be able to view posted job adverts.  |
 | **Actors** | Job seekers and employers|
 | **Assumptions** | None</td></tr>
 | **Steps** | 1. Log-in to the app as either an employer or job seeker<br>2a. As an employer, choose to view job adverts that they have posted<br>2b. As a job seeker, view job adverts posted by employers|
@@ -61,6 +61,7 @@ FR1: The system shall display the data for the area the user is in/selects (UC1 
 
 FR2: The system shall allow employers to post job adverts, including the location of the job
 
+FR3: The system shall allow employers to view their posted job adverts, and for job seekers to view said adverts.
 
 ### Non-Functional Requirements
 TODO: Consider one or more [quality attributes](https://en.wikipedia.org/wiki/ISO/IEC_9126) to suggest a small number of non-functional requirements.
