@@ -33,20 +33,7 @@
 | **Non-functional** | TODO: OPTIONAL - List of non-functional requirements that the use case must meet. |
 | **Issues** | TODO: OPTIONAL - List of issues that remain to be resolved |
 
-| UC3 | View job adverts | 
-| -------------------------------------- | ------------------- |
-| **Description** | Job seekers and employers should be able to view posted job adverts.  |
-| **Actors** | Job seekers and employers|
-| **Assumptions** | None</td></tr>
-| **Steps** | 1. Log-in to the app as either an employer or job seeker<br>2a. As an employer, choose to view job adverts that they have posted<br>2b. As a job seeker, view job adverts posted by employers|
-| **Variations** | n/a |
-| **Non-functional** | NFR4: Job adverts are displayed on a table in a reasonable time |
-| **Issues** | TODO: OPTIONAL - List of issues that remain to be resolved |
 
-
-
-
-TODO: Your Use-Case diagram should include all use-cases.
 
 ![Insert your Use-Case Diagram Here](images/Use-case-diagram.png)
 
