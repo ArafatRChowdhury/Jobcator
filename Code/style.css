@@ -1,0 +1,18 @@
+header { 
+    font-size: large; 
+    font-family: Lato;
+    grid-area: ph;
+}
+.grid-container { display: grid; grid-template-areas: 
+    'ph ph ph ph ph'
+    'ln cn cn cn cn'
+    'ln cn cn cn cn';
+}
+
+.nav {
+    grid-area: ln;
+}
+
+.main {
+    grid-area: cn;
+}
