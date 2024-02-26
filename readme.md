@@ -3,6 +3,7 @@
 This is an app designed to find jobs in Bristol and around. It will make finding a job in Bristol areas much easier, and can help narrow down a search.
 
 Jobs by area in Bristol(Open Data Bristol): https://arcg.is/1PGumP1
+Trello: https://trello.com/b/WWyB0oWx/isd-jobcator
 
 1. [Planning](docs/planning.md)
 2. [Requirements](docs/requirements.md)
