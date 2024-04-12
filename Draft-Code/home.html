@@ -17,8 +17,6 @@
             <header>
                 Jobcator
                 <br>
-                <span><input placeholder="Search" type = "text">
-                <button><i class="material-icons">search</i></button></span>
             </header>
             <nav>
                 <button class="w3-button w3-block w3-blue w3-border w3-border-white">Job Adverts</button>
@@ -36,7 +34,18 @@
                   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
                 .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
                 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+                 #myInput{
+                  background-image: url('/css/searchicon.png');
+                  background-position: 10px 10px;
+                  background-repeat: no-repeat;
+                  width: 100%;
+                  font-size: 16px;
+                  padding: 12px 20px 12px 40px;
+                  border: 1px solid #ddd;
+                  margin-bottom: 12px;
+                  }
                 </style>
+                       <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for a Ward" title="Type a ward"> 
                 <table class="tg">
                 <thead>
                   <tr>
@@ -252,7 +261,27 @@
                     <td class="tg-0pky">30/hr</td>
                   </tr>
                 </tbody>
-                </table>
-        </div>
-    </body>
+              </table>
+            </div>
+         <script>
+        function myFunction(){
+          var input, filter, table, tr, td, txtValue;
+          input = document.getElementById("myInput");
+          filter = input.value.toUpperCase();
+          table = document.getElementById("tg");
+          tr = table.getElementByTagName("tg-fymr");
+          for (i=0;i<tr.length;i++){
+            td = tr[i].getElementByTagName("tg-0pky")[0];
+            if (td){
+              txtValue = td.textContent || td.innerText;
+              if (txtValue.toUpperCase().indexOf(filter) > -1){
+                tr[i].style.display ="";
+              } else{
+                tr[i].style.display ="none";
+               }
+             }
+           }
+         }
+    </script>
+  </body>
 </html>
