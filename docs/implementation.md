@@ -4,8 +4,6 @@
 The dataset shows wards in Bristol and information on them. The system uses this information to display available jobs in each ward. However, the jobs shown are currently fakes that are meant to be a proof of concept. Users can view a map of the Bristol with each ward highlighted.
 
 ## Project Structure
-TODO: Provide an outline of the project folder structure and the role of each file within it.
-provide a table listing the number of jslint warnings/reports for each module.
 home.html is where the job adverts are. It also has a link to map.html, which is where the map of bristol is. Jobcator.html is a prototype of home.html, and no longer serves a relevant purpose. style.css contains the css for the website.
 ```
 └── 📁Jobcator
