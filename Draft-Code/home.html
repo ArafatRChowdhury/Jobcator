@@ -45,17 +45,14 @@
                   margin-bottom: 12px;
                   }
                 </style>
-                       <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for a Ward" title="Type a ward"> 
-                <table class="tg">
-                <thead>
+                <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for a Ward" title="Type a ward"> 
+                <table id="myTable">
                   <tr>
                     <th class="tg-fymr">Ward</th>
                     <th class="tg-fymr">Employer</th>
                     <th class="tg-0pky"><span style="font-weight:bold">Job Type</span></th>
                     <th class="tg-0pky"><span style="font-weight:bold">Pay Per Hour</span></th>
                   </tr>
-                </thead>
-                <tbody>
                   <tr>
                     <td class="tg-0pky">Avonmouth &amp; Lawrence Weston</td>
                     <td class="tg-0pky">Tesco</td>
@@ -260,18 +257,17 @@
                     <td class="tg-0pky">Supply Manager</td>
                     <td class="tg-0pky">30/hr</td>
                   </tr>
-                </tbody>
               </table>
             </div>
          <script>
         function myFunction(){
-          var input, filter, table, tr, td, txtValue;
+          var input, filter, table, tr, td, i, txtValue;
           input = document.getElementById("myInput");
           filter = input.value.toUpperCase();
-          table = document.getElementById("tg");
-          tr = table.getElementByTagName("tg-fymr");
+          table = document.getElementById("myTable");
+          tr = table.getElementsByTagName("tr");
           for (i=0;i<tr.length;i++){
-            td = tr[i].getElementByTagName("tg-0pky")[0];
+            td = tr[i].getElementsByTagName("td")[0];
             if (td){
               txtValue = td.textContent || td.innerText;
               if (txtValue.toUpperCase().indexOf(filter) > -1){
