@@ -21,12 +21,18 @@
                     let td = document.createElement('td');
                     td.innerHTML = a.NAME;
                     tr.appendChild(td);
+                    td = document.createElement('td');
+                    td.innerHTML = a.COUNCILLORS;
+                    tr.appendChild(td);
+                    td = document.createElement('td');
+                    td.innerHTML = a.WARD_ID;
+                    tr.appendChild(td);
                     element.appendChild(tr);
                 }
             }
 
             function query() {
-                let url = "https://maps2.bristol.gov.uk/server2/rest/services/ext/ll_boundaries/MapServer/4/query?where=1%3D1&outFields=NAME&outSR=4326&f=json";
+                let url = "https://maps2.bristol.gov.uk/server2/rest/services/ext/ll_boundaries/MapServer/4/query?where=1%3D1&outFields=NAME,COUNCILLORS,WARD_ID&outSR=4326&f=json";
                 fetch (url, {
                     method: 'GET', headers: { 'Accept': 'application/json' },
                 })
@@ -39,21 +45,21 @@
         <div class="grid-container">
             <header>
                 Jobcator
-                <br>
-                <span><input placeholder="Search" type = "text">
-                <button><i class="material-icons">search</i></button></span>
             </header>
             <nav>
-                <button class="w3-button w3-block w3-blue w3-border w3-border-white">User login</button>
-                <button class="w3-button w3-block w3-blue w3-border w3-border-white">Employer login</button>
-                <button class="w3-button w3-block w3-blue w3-border w3-border-white">Sign-up</button>
+                <a href="home.html">
+                    <button class="w3-button w3-block w3-blue w3-border w3-border-white">Home</button>
+                  </a>
+                  <a href="map.html">
+                    <button class="w3-button w3-block w3-blue w3-border w3-border-white">Map</button>
+                  </a>
             </nav>
             <main>
                 <!--iframe src="https://arcg.is/08yDOj0" width="800" height="600" frameborder="0"></iframe-->
             </main>
             <table>
                 <thead>
-                    <th>Location</th><th>Company</th><th>Job Title</th>
+                    <th>Ward</th><th>Councillors</th><th>Ward ID</th>
                 </thead>
                 <tbody id="results">
                 </tbody>
