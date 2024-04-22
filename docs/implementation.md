@@ -16,7 +16,7 @@ The dataset shows wards in Bristol and information on them. The system uses this
 ## Software Architecture
 TODO: Describe the major components of your architecture. Are any particular architectural styles being used?
 
-This website uses Bristol Open Data to display the map using the "Map" button in home.html
+This website uses Bristol Open Data to display the map using the "Map" button in home.html. In addition, it uses Bristol Open Data to fetch data from the dataset used.
 ![Insert your component Diagram here](images/Component_Diagram_Jobcator_App.png)
 
 ## Bristol Open Data API
