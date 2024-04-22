@@ -22,4 +22,3 @@ This website uses Bristol Open Data to display the map using the "Map" button in
 
 This website queries Bristol Open Data and fetches the NAME, COUNCILLORS, and WARD_ID fields from the Wards dataset.
 ![UML Class diagrams representing JSON query results](images/class_diagram.png)
-TODO: Repeat as necessary
