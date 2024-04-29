@@ -16,9 +16,13 @@ The dataset shows wards in Bristol and information on them. The system uses this
 ## Software Architecture
 
 This website uses Bristol Open Data to display the map using the "Map" button in home.html. In addition, it uses Bristol Open Data to fetch data from the dataset used.
+
+Component diagram:
 ![Insert your component Diagram here](images/Component_Diagram_Jobcator_App.png)
 
 ## Bristol Open Data API
 
 This website queries Bristol Open Data and fetches the NAME, COUNCILLORS, and WARD_ID fields from the Wards dataset.
+
+UML class diagram:
 ![UML Class diagrams representing JSON query results](images/class_diagram.png)
