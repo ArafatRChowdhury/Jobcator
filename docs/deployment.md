@@ -7,7 +7,7 @@ Describe the deployment of software components to hardware nodes using a UML Dep
 #### Jobcator
 Version number: v1.0.0
 <br><br><b>System dependencies</b>: 
-<br><br><b>Software tools used</b>: Visual Studio Code(For HTMl, CSS and JavaScript), Astah UML(For the UML diagrams), Draw.io(For the UML Class Diagram)
+<br><br><b>Software tools used</b>: Visual Studio Code(For HTML, CSS and JavaScript), Astah UML(For the UML diagrams), Draw.io(For the UML Class Diagram)
 <br><br><b>Issues identified</b>: Employers can not post job adverts because this feature is not implemented; Finding user location is not available because the application does not ask you for your geolocation data; 
 
 ![Insert Deployment diagram here](images/deployment.png)
