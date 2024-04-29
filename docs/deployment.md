@@ -17,8 +17,6 @@ Deployment diagram:
 # User guide
 TODO: Explain how each use-case works by providing step-by-step screenshots for each use-case. This should be based on a tested scenario.
 
-![Insert screenshots here](images/screenshot.png)
-TODO: Repeat as necessary
 ### Use Case 1
 1. Home page: The first thing the employees see when they load the page is a table with a range of jobs, all of them in the Bristol area; if they want to find a more specific job they can filter the table using the search bar above the table to search for a specific ward.
 ![Insert Jobcator_home](images/Jobcator_home.png) 
