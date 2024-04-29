@@ -4,7 +4,7 @@
 The dataset shows wards in Bristol and information on them. The system uses this information to display available jobs in each ward. However, the jobs shown are currently fakes that are meant to be a proof of concept. Users can view a map of the Bristol with each ward highlighted.
 
 ## Project Structure
-**home.html** is the main menu and where the job adverts are, **map.html** is also embedded into **home.html** as a button which shows a map of Bristol with the wards highlighted. **style.css** contains the CSS for the website and **Jobcator.hmtl** contains table displaying ward information, consisting of the names of each ward, number of councillors and the ward ID.
+**home.html** is the main menu and where the job adverts are, **map.html** is also embedded into **home.html** as a button which shows a map of Bristol with the wards highlighted. **style.css** contains the CSS for the website and **Jobcator.html** contains table displaying ward information, consisting of the names of each ward, number of councillors and the ward ID.
 ```
 └── 📁Jobcator
     └── home.html
@@ -12,6 +12,8 @@ The dataset shows wards in Bristol and information on them. The system uses this
     └── map.html
     └── style.css
 ```
+
+The **docs** folder contains all relative files for the documentation of this app, including an images folder containing screenshots of the app and diagrams.
 
 ```
 └── 📁docs
