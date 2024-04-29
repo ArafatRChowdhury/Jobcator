@@ -17,3 +17,5 @@ TODO: Explain how each use-case works by providing step-by-step screenshots for 
 
 ![Insert screenshots here](images/screenshot.png)
 TODO: Repeat as necessary
+### Use Case 1
+
