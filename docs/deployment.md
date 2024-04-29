@@ -7,7 +7,7 @@ Describe the deployment of software components to hardware nodes using a UML Dep
 #### Jobcator
 Version number: v1.0.0
 <br>System dependencies: 
-<br>Software tools used: Visual Studio Code, Astah UML, Draw.io
+<br>Software tools used: Visual Studio Code(For HTMl, CSS and JavaScript), Astah UML(For the UML diagrams), Draw.io(For the UML Class Diagram)
 <br>Issues identified:
 
 ![Insert Deployment diagram here](images/deployment.png)
