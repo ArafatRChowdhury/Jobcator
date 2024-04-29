@@ -5,9 +5,9 @@ TODO: Describe the current version of the system (with version number. Include s
 Are there any known issues? 
 Describe the deployment of software components to hardware nodes using a UML Deployment diagram.
 #### Jobcator
-Version number: v1.0.0
-System dependencies:
-Software tools used:
+Version number: v1.0.0<br>
+System dependencies:<br>
+Software tools used:<br>
 Issues identified:
 
 ![Insert Deployment diagram here](images/deployment.png)
