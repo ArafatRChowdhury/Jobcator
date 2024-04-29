@@ -16,5 +16,3 @@ Create a requirements traceability matrix to validate the completeness of the pr
 | No use case| NFR2 | No security is required as all data is public | Pass; Jobcator does not have a log-in because all the data used is publicly available at Open Data Bristol |
 | No use case | NFR3 | Works on Chrome, safari and Firefox | Pass; Jobcator works on Chrome, safari and firefox |
 | UC1/UC2 | NFR4 | Table/data is fetched and displayed in a time reasonable to the performance capabilities of the device being used | Pass; the table data appears almost instantly when the website is loaded, the same for the ward information, the map takes a couple of seconds to load |
-  
-TODO: Add rows for each test, current status is eg. pass/fail
