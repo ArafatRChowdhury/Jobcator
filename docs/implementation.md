@@ -13,6 +13,15 @@ The dataset shows wards in Bristol and information on them. The system uses this
     └── style.css
 ```
 
+## Code linting
+
+ESLint was used to lint the JavaScript code.
+
+1. "i" is not defined: can be resolved by using var or let
+2. "tr" is not defined, "document" is not defined: they are pre defined in visual studio, but ESLint does not know this
+3. "query" is defined but never used: it is used in the html file, but not in any JavaScript functions
+4. "fetch" is not defined: Again, it is defined, but ESLint doesn't know
+
 ## Software Architecture
 
 This website uses Bristol Open Data to display the map using the "Map" button in home.html. In addition, it uses Bristol Open Data to fetch data from the dataset used.
