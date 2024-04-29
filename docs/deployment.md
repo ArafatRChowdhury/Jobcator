@@ -25,3 +25,4 @@ TODO: Explain how each use-case works by providing step-by-step screenshots for 
 ![Insert Jobcator_map](images/Jobcator_map.png)
 
 ### Use Case 2
+Use case 2 has not been implemented in v1.0.0.
