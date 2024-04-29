@@ -3,13 +3,13 @@
 ## User Needs
 
 ### User stories
-#### 1. As a job seeker, I want to find jobs by ward and industry, so I know where to look for a job in my industry of interest.
-#### 2. As an employer, I want to be able to attract employees to my company/business
+1. As a job seeker, I want to find jobs by ward and industry, so I know where to look for a job in my industry of interest.
+2. As an employer, I want to be able to attract employees to my company/business
 
 
 ### Actors
-#### 1. Job seekers
-#### 2. Employers
+1. Job seekers
+2. Employers
 
 ### Use Cases
 
