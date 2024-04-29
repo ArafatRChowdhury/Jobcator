@@ -3,7 +3,7 @@
 ## User Interface design
 ### Desktop View
 
-This is how the app would look on a desktop device, such as a PC or laptop.
+This is how the app would look on a desktop device, such as a PC or laptop. The home page contains links to the log in and sign up pages. Once logged in, the user is automatically redirected to the respective profile pages of whatever type of user they have logged in as. 
 
 ![Insert your wireframe/wireflow here](images/Home_login_signup.png)
 ![Insert your wireframe/wireflow here](images/User_interface.png)
@@ -11,7 +11,7 @@ This is how the app would look on a desktop device, such as a PC or laptop.
 
 ### Mobile View
 
-This is how the app would look on a mobile device.
+This is how the app would look on a mobile device. It works the exact same as the desktop version.
 
 ![Insert your wireframe/wireflow here](images/Wireflow_diagram_Jobcator_1.png)
 ![Insert your wireframe/wireflow here](images/Wireflow_diagram_Jobcator_2.png)
