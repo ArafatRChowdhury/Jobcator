@@ -39,27 +39,21 @@
 
 ## Software Requirements Specification
 ### Functional requirements
-TODO: create a list of functional requirements. 
-    e.g. "The system shall ..."
-    Give each functional requirement a unique ID. e.g. FR1, FR2, ...
-    Indicate which UC the requirement comes from.
 
-FR1: The system shall display the data for the area the user is in/selects (UC1 and UC2)
+- FR1: The system shall display the data for the area the user is in/selects (UC1 and UC2)
 
-FR2: The system shall allow employers to post job adverts, including the location of the job
+- FR2: The system shall allow employers to post job adverts, including the location of the job
 
-FR3: The system shall allow employers to view their posted job adverts, and for job seekers to view said adverts.
+- FR3: The system shall allow employers to view their posted job adverts, and for job seekers to view said adverts.
 
 ### Non-Functional Requirements
-TODO: Consider one or more [quality attributes](https://en.wikipedia.org/wiki/ISO/IEC_9126) to suggest a small number of non-functional requirements.
-Give each non-functional requirement a unique ID. e.g. NFR1, NFR2, ...
 
 Indicate which UC the requirement comes from.
 
-NFR1: The system shall assume a sensible default for the user geolocation if there is none available, derived from UC1 and UC3 (Reliability)
+- NFR1: The system shall assume a sensible default for the user geolocation if there is none available, derived from UC1 and UC3 (Reliability)
 
-NFR2: No security is required as all data is public (Security)
+- NFR2: No security is required as all data is public (Security)
 
-NFR3: Works on chrome and safari, maybe firefox (Compatability)
+- NFR3: Works on chrome and safari, maybe firefox (Compatability)
 
-NFR4: Table/data is fetched and displayed in a time reasonable to the performance capabilities of the device being used (Performance efficiency)
+- NFR4: Table/data is fetched and displayed in a time reasonable to the performance capabilities of the device being used (Performance efficiency)
