@@ -8,7 +8,7 @@ Describe the deployment of software components to hardware nodes using a UML Dep
 Version number: v1.0.0
 <br>System dependencies: 
 <br>Software tools used: Visual Studio Code(For HTMl, CSS and JavaScript), Astah UML(For the UML diagrams), Draw.io(For the UML Class Diagram)
-<br>Issues identified:
+<br>Issues identified: Employers can not post job adverts because this feature is not implemented; Finding user location is not available because the application does not ask you for your geolocation data; 
 
 ![Insert Deployment diagram here](images/deployment.png)
 
