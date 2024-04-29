@@ -3,6 +3,14 @@
 ## Test Plan
 TODO: Describe any manual and automated (unit) tests. Uniquely identify each test case. Include prerequisites and test data.
 
+| Test case ID | Test Type | Description | Scenario |
+| ------------ | --------- | ----------- | -------- |
+| TF1 | UAT | The system shall display data for the user is in/ selects | When the user opens the page with area data, the information is displayed in a table |
+| TF3 | UAT | The system shall allow employers to view their posted job adverts, and for job seekers to view said adverts. | The user opens the job adverts/home page, then all job adverts are displayed. |
+| TNF1 | UAT | The system assumes a sensible default for user location | If the geolocation cannot be obtained, assume any ward |
+| TNF3 | UAT | Works on Chrome and Safari, maybe firefox | The user opens the app in one of the 3 browsers, and no unique errors are encountered |
+| TNF4 | UAT | Table/data is fetched in a reasonable time to the performance capabilities of the user's device | The user opens the app and doesn't have to wait too long for the data to load |
+
 Test Runs
 TODO: For each test described above, indicate the current status. 
 Create a requirements traceability matrix to validate the completeness of the product.
