@@ -17,7 +17,7 @@ Create a requirements traceability matrix to validate the completeness of the pr
 
 | Use-Case ID | Requirement ID | Test Case | Status |
 | ----------- | -------------- | --------- | ------ |
-| UC1 | FR1 | The system shall dysplay data for the area the user is in/selects | Pass; User can use a table in the menu and a map of the Bristol wards to see specific information to their area |
+| UC1 | FR1 | Refer to TF1 Description | Pass; User can use a table in the menu and a map of the Bristol wards to see specific information to their area |
 | UC2 | FR2 | The system shall allow employers to post job adverts, including the location of the job | Pass; the employers can add their jobs to the table in the menu with Ward, employer, job type and pay/hour information. Job seekers can then use the map to check the location of the job using the wards |
 | UC2 | FR3 | The system shall allow employers to view their posted job adverts, and for job seekers to view said adverts | Pass; employers and employees can see the job adverts posted |
 | UC1 | NFR1 | The system shall assume a sensible default for the user geolocation if there is none available | Fail; no geolocation data is required, the open data bristol map centers on the whole Bristol area |
