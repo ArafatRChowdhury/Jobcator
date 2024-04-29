@@ -23,3 +23,5 @@ TODO: Repeat as necessary
 1. Home page: The first thing the employees see when they load the page is a table with a range of jobs, all of them in the Bristol area; if they want to find a more specific job they can filter the table using the search bar above the table to search for a specific ward.
 ![Insert Jobcator_home](images/Jobcator_home.png) 
 ![Insert Jobcator_home_search](images/Jobcator_home_search.png)
+2. Map: If the employees want to see where a ward is located they can click on the button called Map which will display a map of all the Bristol wards.
+   
