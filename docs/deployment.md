@@ -24,4 +24,6 @@ TODO: Repeat as necessary
 ![Insert Jobcator_home](images/Jobcator_home.png) 
 ![Insert Jobcator_home_search](images/Jobcator_home_search.png)
 2. Map: If the employees want to see where a ward is located they can click on the button called Map which will display a map of all the Bristol wards.
-   
+![Insert Jobcator_map](images/Jobcator_map.png)
+
+### Use Case 2
