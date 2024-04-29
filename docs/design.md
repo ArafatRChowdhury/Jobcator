@@ -1,6 +1,9 @@
 # Design
 
 ## User Interface design
+
+This is the design of the app, on both desktop and mobile. They function the same way as each other. It is designed to be easy to use and to easily allow users to view job adverts.
+
 ### Desktop View
 
 This is how the app would look on a desktop device, such as a PC or laptop. The home page contains links to the log in and sign up pages. Once logged in, the user is automatically redirected to the respective profile pages of whatever type of user they have logged in as. 
