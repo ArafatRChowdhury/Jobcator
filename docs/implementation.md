@@ -13,6 +13,18 @@ The dataset shows wards in Bristol and information on them. The system uses this
     └── style.css
 ```
 
+```
+└── 📁docs
+    └── 📁 images
+    └── context_diagram.jpg
+    └── deployment.md
+    └── design.md
+    └── implementation.md
+    └── planning.md
+    └── requiements.md
+    └── testing.md
+```
+
 ## Code linting
 
 ESLint was used to lint the JavaScript code.
