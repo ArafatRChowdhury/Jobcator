@@ -1,6 +1,6 @@
 # Testing
 
-## Test Plan
+## Test Plan (made by Arafat)
 
 | Test case ID | Test Type | Description | Scenario |
 | ------------ | --------- | ----------- | -------- |
@@ -10,8 +10,7 @@
 | TNF3 | UAT | Works on Chrome and Safari, maybe firefox | The user opens the app in one of the 3 browsers, and no unique errors are encountered |
 | TNF4 | UAT | Table/data is fetched in a reasonable time to the performance capabilities of the user's device | The user opens the app and doesn't have to wait too long for the data to load |
 
-Test Runs 
-Create a requirements traceability matrix to validate the completeness of the product.
+## Test Runs (made by Jaime)
 
 | Use-Case ID | Requirement ID | Test Case | Status |
 | ----------- | -------------- | --------- | ------ |
