@@ -13,7 +13,7 @@
 
 ### Use Cases
 
-| UC1 | Find jobs by users area | 
+| UC1 (Jaime's use case) | Find jobs by users area | 
 | -------------------------------------- | ------------------- |
 | **Description** | As someone in need of a job, I want to see what industry jobs are available in my area |
 | **Actors** | Person that is in search of a job |
@@ -23,7 +23,7 @@
 | **Non-functional** | NFR4: Data is fetched in a reasonable time. |
 | **Issues** | TODO: OPTIONAL - List of issues that remain to be resolved |
 
-| UC2 | Publish job adverts | 
+| UC2 (Arafat's use case) | Publish job adverts | 
 | -------------------------------------- | ------------------- |
 | **Description** | Job seekers will need someone to give them employment opportunities so employers will be able to upload job adverts |
 | **Actors** | Employer looking for employees|
