@@ -6,7 +6,7 @@ This is the design of the app, on both desktop and mobile. They function the sam
 
 ### Desktop View
 
-This is how the app would look on a desktop device, such as a PC or laptop. The home page contains links to the log in and sign up pages. Once logged in, the user is automatically redirected to the respective profile pages of whatever type of user they have logged in as. 
+This is how the app would look on a desktop device, such as a PC or laptop. The home page contains links to the log in and sign up pages. Once logged in, the user is automatically redirected to the respective profile pages of whatever type of user they have logged in as. This design was made by Arafat.
 
 ![Insert your wireframe/wireflow here](images/Home_login_signup.png)
 ![Insert your wireframe/wireflow here](images/User_interface.png)
@@ -14,7 +14,7 @@ This is how the app would look on a desktop device, such as a PC or laptop. The 
 
 ### Mobile View
 
-This is how the app would look on a mobile device. It works the exact same as the desktop version.
+This is how the app would look on a mobile device. It works the exact same as the desktop version. This design was made by Jaime.
 
 ![Insert your wireframe/wireflow here](images/Wireflow_diagram_Jobcator_1.png)
 ![Insert your wireframe/wireflow here](images/Wireflow_diagram_Jobcator_2.png)
